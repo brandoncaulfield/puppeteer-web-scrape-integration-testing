@@ -1,2 +1,2 @@
-# puppeteer-web-scrape-integration-testing
- Puppeteer Web Scraping/ Integration Testing
+# puppeteer-web-scraping
+ Web Scraping/ Integration Testing using Puppeteer
